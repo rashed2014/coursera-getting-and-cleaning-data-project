@@ -1,11 +1,4 @@
----
-title: "README"
-author: "Mohammed Rashed"
-date: "1/26/2019"
-output: 
-  html_document: 
-    keep_md: yes
----
+
 
 # Getting and Cleaning Data - Course Project
 
